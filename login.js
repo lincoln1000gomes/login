@@ -158,4 +158,4 @@ class Login{
         fundoLogin.remove();
     }
 }
-export {Login};
+// export {Login};
